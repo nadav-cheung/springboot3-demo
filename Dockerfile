@@ -48,4 +48,4 @@ ENV JAVA_OPTS="-Xms512m -Xmx1024m"
 EXPOSE 8080
 
 # 指定容器启动时执行的命令
-CMD java $JAVA_OPTS -jar -jar application.jar
+CMD java $JAVA_OPTS -jar application.jar
