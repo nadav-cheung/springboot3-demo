@@ -10,7 +10,7 @@
     </parent>
     <groupId>cn.com.nadav</groupId>
     <artifactId>springboot3-demo</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>springboot3-demo</name>
     <description>springboot3-demo</description>
     <properties>
